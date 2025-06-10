@@ -46,6 +46,9 @@ a {
   color: inherit;
 }
 
+html{
+    font-size: 62.5%;
+}
 
 .flex-center {
   display: flex;
